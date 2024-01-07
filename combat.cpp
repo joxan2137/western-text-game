@@ -22,7 +22,7 @@ bool duel(Character& player) {
     }
     return win;
 }
-//TODO: fix this shi
+//TODO: fix this shit
 /*void result(Character& player) {
     if (duel(player)) {
         std::cout << "You win the duel.\n\n";

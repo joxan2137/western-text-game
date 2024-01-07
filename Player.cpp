@@ -1,6 +1,6 @@
 #include <list>
 
-#include "../player.h"
+#include "Player.h"
 
 int player() {
     Player player; // Create a Player object

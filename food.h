@@ -4,7 +4,7 @@
 
 #ifndef FOOD_H
 #define FOOD_H
-#include "Item/Item.h"
+#include "Item.h"
 #include "player.h"
 
 #endif //FOOD_H
@@ -15,7 +15,4 @@ public:
     Food(std::string name, std::string description, int healthValue)
         : Item(name, description), healthValue(healthValue) {}
 
-    void use() override {
-        Player::getInstance()->addHealth(healthValue);
-    }
 };

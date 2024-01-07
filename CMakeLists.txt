@@ -7,4 +7,7 @@ add_executable(untitled main.cpp
         combat.cpp
         characters.h
         Player.cpp
-        Player.h)
+        Player.h
+        Item.cpp
+        Item.h
+        food.h)

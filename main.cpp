@@ -1,8 +1,12 @@
 #include <iostream>
 #include <string>
+#include <vector>
 
 #include "characters.h"
 #include "Player.h"
+#include "food.h"
+#include "Item.h"
+
 // Additional includes as needed
 
 void startGame(Player &player) {
@@ -64,6 +68,9 @@ void scenario1() {
 int main() {
     bool gameOver;
     Player player;
+    Item* apple = new Food("Apple", "A juicy apple", 20);
+    player.addItem(apple);
+
     startGame(player);
 
     if (player.health == 0) {

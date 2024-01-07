@@ -1,10 +1,8 @@
 # ninja log v5
 8	317	7263318674320620	CMakeFiles/untitled.dir/combat.cpp.obj	df427e81b556ffd5
-6	413	7263319253288848	CMakeFiles/untitled.dir/Player.cpp.obj	485355288a51ebc6
-3	417	7263320662620927	CMakeFiles/untitled.dir/main.cpp.obj	e1c3055ee0038e5d
-3	406	7263321499645176	CMakeFiles/untitled.dir/Player.cpp.obj	485355288a51ebc6
-406	481	7263321500373696	untitled.exe	af996fd0f5b79db9
-2	426	7263321908402465	CMakeFiles/untitled.dir/main.cpp.obj	e1c3055ee0038e5d
-426	501	7263321909137585	untitled.exe	af996fd0f5b79db9
-6	423	7263387228513694	CMakeFiles/untitled.dir/Player.cpp.obj	485355288a51ebc6
 2	489	7263387229180942	CMakeFiles/untitled.dir/main.cpp.obj	e1c3055ee0038e5d
+6	423	7263387228513694	CMakeFiles/untitled.dir/Player.cpp.obj	485355288a51ebc6
+426	501	7263321909137585	untitled.exe	af996fd0f5b79db9
+2	147	7263418399307514	build.ninja	192acd2773394dd9
+9	1398	7263418414035458	CMakeFiles/untitled.dir/combat.cpp.obj	df427e81b556ffd5
+6	401	7263419065361088	CMakeFiles/untitled.dir/Player.cpp.obj	485355288a51ebc6
