@@ -1,6 +1,6 @@
 #include <list>
 
-#include "player.h" // Make sure this path is correct
+#include "../player.h"
 
 int player() {
     Player player; // Create a Player object
